@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 🤗, I'm Aarti Sethi</h1>
+<h1 align="center"> Hello 🤗 I'm Aarti Sethi</h1>
 <h3 align="center">Learning the language of data with data science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aartisethi875&label=Profile%20views&color=0e75b6&style=flat" alt="aartisethi875" /> </p>
