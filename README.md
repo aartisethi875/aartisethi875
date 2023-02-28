@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aartisethi696@gmail.com**
 
-- ⚡ Fun fact **Through my journey in data science, I've discovered that data has the power to reveal unexpected insights**
+- ⚡ Fun fact **Learning data science is like learning magic. With each new tool and technique, I feel like I'm unlocking new powers and abilities to explore and solve problems in creative ways**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
